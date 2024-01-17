@@ -24,7 +24,7 @@ button = left_column.button('右からむに文字を表示')
 if button:
     right_column.write('ここは右カラムです。')
 
-expander = st.expander('〇〇についての問い合わせ回答')
+expander = st.expander('についての問い合わせ回答')
 expander.write('ｄふぁｌ；ｄｊｓｌ；ｊｌ；ｆｊｓｌｆｊ'
                'ｊｌｓｆｄじゃ；ｓｆｊｋｓｌｆｄｖｆｓｊｄｓｌｆｓｆｓｊｌｆｊｋ'
                'ｊｆｄｌさｆｓぁ；ｄｋｊｓｊｆｓ；ｆ'
